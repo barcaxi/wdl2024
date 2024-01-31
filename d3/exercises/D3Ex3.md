@@ -1,6 +1,6 @@
 # D3 Exercise 3 – D3 Data Binding
 		
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
+> Complete ALL the exercises in this section. Ask thomas.devine@atu.ie for help.
 
 <!-- ## Fetch latest Repository Branch
 
